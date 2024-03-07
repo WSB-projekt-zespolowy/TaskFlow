@@ -7,7 +7,9 @@ TaskFlow is designed to offer users a straightforward platform for organizing ta
 
 ## How?
 TaskFlow will be developed using the following technologies:
-React: For building the user interface and managing components efficiently.
-Node.js: For backend server-side logic and handling API requests.
-MongoDB: As the database to store board and task information.
-Express: As the web application framework for Node.js, facilitating the development of robust APIs.
+<ul>
+  <li>React: For building the user interface and managing components efficiently.</li>
+  <li>Node.js: For backend server-side logic and handling API requests.</li>
+  <li>MongoDB: As the database to store board and task information.</li>
+  <li>Express: As the web application framework for Node.js, facilitating the development of robust APIs.</li>
+</ul>
